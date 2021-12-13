@@ -4,5 +4,7 @@
 ### - opensuspect
 ### - wiki-host
 ### - levelsharing
+### - NextCut
+### - Wickgrounds/Project CatGhost!
 ### - and more!!!
 ## I am reachable(JUST USE DISCUSSIONS AND THE WIKI!)
